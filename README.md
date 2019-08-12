@@ -1,7 +1,2 @@
-"# Telegram-BOT-PHOTO" 
-"# Telegram-BOT-PHOTO" 
-# Telegram-BOT-PHOTO
-"# Telegram-BOT-PHOTO" 
-"# Telegram-BOT-PHOTO" 
-# Telegram-BOT-PHOTO
-"# Telegram-BOT-PHOTO" 
+"# Telegram-BOT-PHOTO"
+Prueba de programa
